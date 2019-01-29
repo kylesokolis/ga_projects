@@ -9,10 +9,15 @@ If these models are successful, they could apply to a multitude of situations wh
 
 # Executive Summary
 Import Libraries
+
 Data Importing
+
 Cleaning / Munging
+
 Logistic Regression Modeling
+
 Naive Bayes Modeling
+
 Random Forest Modeling
 
 ---
